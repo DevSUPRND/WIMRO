@@ -1,6 +1,6 @@
 {
-  "F_Version" : 1.7,
-  "F_Url" :"https://devsuprnd.github.io/WIMRO/firmware_1.7.ino.bin",
+  "F_Version" : 1.8,
+  "F_Url" :"https://devsuprnd.github.io/WIMRO/firmware_1.8.ino.bin",
   "S_Version" : 1.0,
   "S_Url" :"https://devsuprnd.github.io/WIMRO/spiffs_1.0.bin"
 }
